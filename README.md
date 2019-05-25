@@ -1,6 +1,6 @@
 # order-system
 
-> A Vue.js project
+> 订购系统前台，商品列表组件，购物车组件，结算组件，商品详情组件。其他组件后续开发完成会继续上传
 
 ## Build Setup
 
