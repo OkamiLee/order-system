@@ -12,7 +12,7 @@
           <router-link :to="{ path: '/shopdetail', query: { id: index }}" class="link_box"> 
             <img v-lazy="i.src"  class="shop_img"/>
             <p class="price">￥123</p>
-            <p class="title">我是标题我是标题我是标题我是标题我是标题我是标题我是标题我是标题</p>
+            <p class="title">我是佩琪</p>
           </router-link>
           <div class="clearfix">
             <div class="fl num_box">
